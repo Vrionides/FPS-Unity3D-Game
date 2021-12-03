@@ -1,0 +1,1 @@
+Double click the MyFinalProject.exe to launch the application
